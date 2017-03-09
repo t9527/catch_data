@@ -1,4 +1,4 @@
-## Welcome to Catch Data
+## Welcome to Catch Data README
 
 #   Catch Data Based on UNIX or GNU/Linux OS   #
   It is a simple tutorial for catching data you need from experiments result based on **Unix** or **GNU/Linux OS**. As Linux OS might be not available for us, we simulate running Linux OS in Windows OS using **Cygwin**.
