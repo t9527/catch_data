@@ -13,7 +13,7 @@
 - As there are only two sample reports for writing catch data script, only two numbers shown in catch.rpt.4 for just demo.
 
 ```markdown
-- UNIX or GNU/Linux OS are powerful and popular in industry.
+UNIX or GNU/Linux OS are powerful and popular in industry.
 ```
 
 ### Support or Contact
