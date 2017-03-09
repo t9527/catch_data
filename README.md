@@ -1,11 +1,11 @@
 ## Welcome to Catch Data README
 
 #   Catch Data Based on UNIX or GNU/Linux OS   #
-  It is a simple tutorial for catching data you need from experiments result based on **Unix** or **GNU/Linux OS**. As Linux OS might be not available for us, we simulate running Linux OS in Windows OS using **Cygwin**.
+  It is a simple tutorial for catching data you need from experiments result based on **Unix** or **GNU/Linux OS**. As Linux OS might be not available for us, we simulate running Linux OS on Windows OS using **Cygwin**.
   
 
 ### Step by Step
-1. Install **Cygwin** [Cygwin and Setup](https://github.com/t9527/catch_data/blob/master/Catch_data_3.PNG) in your computer from [Cygwin](https://www.cygwin.com/). 
+1. Install **[Cygwin and Setup](https://github.com/t9527/catch_data/blob/master/Catch_data_3.PNG)** on your computer from [Home of Cygwin Project](https://www.cygwin.com/). 
 - install 'csh' Package via [Cygwin Setup](https://github.com/t9527/catch_data/blob/master/Catch_data_4.PNG) in order to run command `csh catcah_data.csh`
 2. Download [catch_data.csh](https://github.com/t9527/catch_data/blob/master/catch_data.csh), and put it under the path which your project script will run [project catch data](https://github.com/t9527/catch_data/blob/master/Catch_data_0.PNG).
 3. Run the script catch_data.csh using the command `csh catch_date.csh`, please.
