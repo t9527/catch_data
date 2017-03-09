@@ -14,7 +14,6 @@
 
 ```markdown
 - UNIX or GNU/Linux OS are powerful and popular in industry.
-
 ```
 
 ### Support or Contact
