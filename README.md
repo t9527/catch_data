@@ -10,11 +10,10 @@
 2. Download [catch_data.csh](https://github.com/t9527/catch_data/blob/master/catch_data.csh), and put it under the path which your project script will run [project catch data](https://github.com/t9527/catch_data/blob/master/Catch_data_0.PNG).
 3. Run the script catch_data.csh using the command `csh catch_date.csh`, please.
 4. Get [Reports](https://github.com/t9527/catch_data/blob/master/Catch_data_1.PNG). Pay attention: only catch.rpt.4 is report of data we need, using the edit command 'vi' to open this [Report](https://github.com/t9527/catch_data/blob/master/Catch_data_2.PNG). Selecting the data, copy and paste to Notepad or Excel. 
-
+- As there are only two sample reports for writing catch data script, only two numbers shown in catch.rpt.4 for just demo.
 
 ```markdown
-- UNIX or GNU/Linux OS is powerful and popular in industry.
-- As there are only two sample reports for writing catch data script, there are only two numbers shown in catch.rpt.4 for just demo.
+- UNIX or GNU/Linux OS are powerful and popular in industry.
 
 ```
 
