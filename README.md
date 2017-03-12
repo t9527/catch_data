@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # catch_data
 Catch data from experiments results 
-=======
 ## Welcome to Catch Data README
 
 #   Catch Data Based on UNIX or GNU/Linux OS   #
@@ -23,4 +21,4 @@ UNIX or GNU/Linux OS are powerful and popular in industry.
 ### Support or Contact
 
 Script content depends on data you want to catch, if you need different data, let me know please. I will update script. Thank you.
->>>>>>> origin/master
+
